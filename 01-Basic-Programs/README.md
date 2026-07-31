@@ -9,5 +9,3 @@ This folder contains beginner-level C++ programs.
 -Area of Circle
 -Temperature Conversion
 
-##Purpose
-This repository contains my C++ practice programs organized by topic to imnprove my programming skills.
